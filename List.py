@@ -25,8 +25,7 @@ class List:
 
         list = {
             "id": list_id,
-            "title": title,
-            "is_complete": False
+            "title": title
         }
         
         self.list.append(list)
